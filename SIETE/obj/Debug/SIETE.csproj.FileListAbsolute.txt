@@ -1,0 +1,7 @@
+C:\Users\luisa\source\repos\Ejercicio1Guia7\SIETE\bin\Debug\SIETE.exe.config
+C:\Users\luisa\source\repos\Ejercicio1Guia7\SIETE\bin\Debug\SIETE.exe
+C:\Users\luisa\source\repos\Ejercicio1Guia7\SIETE\bin\Debug\SIETE.pdb
+C:\Users\luisa\source\repos\Ejercicio1Guia7\SIETE\obj\Debug\SIETE.csprojAssemblyReference.cache
+C:\Users\luisa\source\repos\Ejercicio1Guia7\SIETE\obj\Debug\SIETE.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\Ejercicio1Guia7\SIETE\obj\Debug\SIETE.exe
+C:\Users\luisa\source\repos\Ejercicio1Guia7\SIETE\obj\Debug\SIETE.pdb
